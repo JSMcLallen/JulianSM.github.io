@@ -23,7 +23,8 @@
  - Initially used W3schools tryit editor for running my program, but switched to Bundles > Open in running browser to streamline my process
  - Used the validate syntax feature in bundles to correct my code
  - Encountered issues in the *Projects* page, with the referenced audio files not playing in the webpage
- - Solved by 
+ - Not solved yet
+ - Used gemini and textmate syntax validation to help edit code
  
 #Phase 4
 
